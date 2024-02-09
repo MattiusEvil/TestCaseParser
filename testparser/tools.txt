@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Scrapy_parser\.venv\Scripts\activate" 
+scrapy crawl filmspider -o films.json
+http://www.scrapethissite.com/pages/ajax-javascript/

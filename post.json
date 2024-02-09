@@ -1,0 +1,8 @@
+[
+{"Team Name": "Boston Bruins", "Year": "1990", "Wins": "44", "Losses": "24", "Ot_Losses": "", "WinPer": "0.55", "GF": "299", "GA": "264", "Distinction": "35"},
+{"Team Name": "Buffalo Sabres", "Year": "1990", "Wins": "31", "Losses": "30", "Ot_Losses": "", "WinPer": "0.575", "GF": "292", "GA": "278", "Distinction": "14"},
+{"Team Name": "Calgary Flames", "Year": "1990", "Wins": "46", "Losses": "26", "Ot_Losses": "", "WinPer": "0.613", "GF": "344", "GA": "263", "Distinction": "81"},
+{"Team Name": "Chicago Blackhawks", "Year": "1990", "Wins": "49", "Losses": "23", "Ot_Losses": "", "WinPer": "0.575", "GF": "284", "GA": "211", "Distinction": "73"},
+{"Team Name": "Detroit Red Wings", "Year": "1990", "Wins": "34", "Losses": "38", "Ot_Losses": "", "WinPer": "0.512", "GF": "273", "GA": "298", "Distinction": "0"},
+{"Team Name": "Edmonton Oilers", "Year": "1990", "Wins": "37", "Losses": "37", "Ot_Losses": "", "WinPer": "0.588", "GF": "272", "GA": "272", "Distinction": "86"}
+]
